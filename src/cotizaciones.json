@@ -1,18 +1,27 @@
 {
   "Dólar Oficial": {
-    "compra": 199.5,
-    "venta": 205.5
+    "compra": 238.5,
+    "venta": 250.5
   },
   "Dólar Blue": {
-    "compra": 420.0,
-    "venta": 425.0
+    "compra": 485.0,
+    "venta": 490.0
   },
-  "Dólar CCL": {
-    "compra": 418.0,
-    "venta": 423.0
+  "Euro": {
+    "compra": 257.16,
+    "venta": 258.19
   },
-  "Dolar MEP": {
-    "compra": 415.5,
-    "venta": 420.5
+  "Real": {
+    "compra": 48.69,
+    "venta": 48.72
+  },
+  "Libra": {
+    "compra": 299.14,
+    "venta": 300.36
+  },
+  "Yen": {
+    "compra": 1.73,
+    "venta": 1.73
   }
+
 }

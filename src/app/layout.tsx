@@ -16,7 +16,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={space_Mono.className}>
-        <main className="bg-emerald-100 h-screen flex items-center justify-center">
+        <main className="bg-sky-200 h-screen flex items-center justify-center">
           <div className="max-w-screen-md w-full mx-auto grid flex-1 flex-col px-4">
             <div className="bg-white rounded-2xl shadow-lg w-full p-8">
               {children}
